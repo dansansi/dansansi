@@ -6,14 +6,14 @@ Tech Stack
 - C# / .NET
 - ASP.NET Core
 - ASP.NET Identity
-- SQL Server
+- SQLite
 - EF Core, Dapper
 - React
 - Docker
 - Git
 
 Featured Projects
-- REST API with ASP.NET Core and SQL Server
+- REST API with ASP.NET Core and SQLite
 - JWT authentication and authorization
 
 Contact
