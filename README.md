@@ -20,7 +20,4 @@ Contact
 - LinkedIn: [https://www.linkedin.com/in/dansansi](https://www.linkedin.com/in/dansansi/)
 - GitHub: [https://github.com/dansansi](https://www.linkedin.com/in/dansansi/)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
