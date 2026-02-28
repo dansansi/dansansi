@@ -20,7 +20,7 @@ Contact
 - LinkedIn: [https://www.linkedin.com/in/dansansi](https://www.linkedin.com/in/dansansi/)
 - GitHub: [https://github.com/dansansi](https://www.linkedin.com/in/dansansi/)
 
-<div style="display:flex; gap:15px;">
+<div style="display:flex; gap:30px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="70" height="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70"/>
