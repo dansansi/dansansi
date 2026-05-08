@@ -18,9 +18,9 @@ Currently focused on C# / .NET on the backend and Next.js on the frontend.
 
 ## 🚀 Featured Project
 
-### 🎮 [MyGamingList](https://github.com/dansansi/MyGamingList) — [Live Demo](https://mygaminglist-ielz.onrender.com)
+### 🎮 [MyGamingList](https://github.com/dansansi/MyGamingList) -- [Live Demo](https://mygaminglist-ielz.onrender.com)
 
-A fullstack app to track your game library — add games, set their status, favorite the ones you love, and discover new ones.
+A fullstack app to track your game library, add games, set their status, favorite the ones you love, and discover new ones.
 
 Built with ASP.NET Core + EF Core + Identity + JWT on the backend, Next.js + TypeScript + Tailwind on the frontend, and PostgreSQL on Neon. Game data powered by the RAWG API.
 
